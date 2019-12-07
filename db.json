@@ -152,6 +152,30 @@
             "status": "ACTIVA"
           }
         ]
+      },
+      {
+        "id": 3,
+        "nombreUsuario": "Dens Ibarra",
+        "contrasena": "hola",
+        "tipo": "Pasajero",
+        "puntaje": 0,
+        "reputacion": 0,
+        "infoAuto": {
+          "marca": "Ford",
+          "modelo": "Lobo",
+          "annio": 2019,
+          "placas": "XXH-00"
+        },
+        "recompensas": [
+          {
+            "idRecompensa": 1,
+            "status": "CANJEADA"
+          },
+          {
+            "idRecompensa": 2,
+            "status": "ACTIVA"
+          }
+        ]
       }
     ],
     "profile": {
